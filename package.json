@@ -1,0 +1,18 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "description": "This is a reference to \"how to build cli command in nodejs\"",
+  "main": "cli-project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chhetrisushil",
+  "license": "MIT",
+  "bin": {
+    "cli-project": "cli-project.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chhetrisushil/cli-project.git"
+  }
+}
